@@ -1,7 +1,8 @@
 ## Dt-money
 
 This project is part of a intensive React training by Rocketseat, this app was created at second module.
-It's an application to you control your finances.
+It's an application to you control your finances. </br>
+We have two initial data inserted with the miragejs (Freelancer de web	and Aluguel).
 
 ### Learnings
  - Components organization
@@ -9,6 +10,7 @@ It's an application to you control your finances.
  - Typescript interface usages
  - Context API
  - Custom hooks
+ - Mirage.js
  - Date and money format with INTL
 
 ### Getting Started
